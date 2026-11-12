@@ -31,8 +31,8 @@ var APP_DATA = {
       "linkHotspots": [],
       "infoHotspots": [
         {
-          "yaw": 1.1466836693929494,
-          "pitch": -0.42991086959659164,
+          "yaw": -0.2207221992023598,
+          "pitch": -0.3800650891305182,
           "title": "春日部車站",
           "text": "<span class=\"rQesXe MPyX\" data-sfc-cp=\"\" jsaction=\"\" jscontroller=\"tP2kf#s32ZS\" data-sfc-root=\"c\" jsuid=\"MA88r_c\" style=\"font-family: Arial, sans-serif, &quot;Noto Color Emoji&quot;; font-size: 16px; font-weight: 700; margin: 0px; border-bottom: 0px rgb(10, 10, 10);\"><span class=\"iNqyIf\" data-sfc-cp=\"\" jsaction=\"\" jscontroller=\"KdQfFc#d5Qebf\" data-sfc-root=\"c\" jsuid=\"MA88r_d\" style=\"margin: 0px; border-bottom: 0px rgb(10, 10, 10);\"><u class=\"wfWfIf fxyaSe\" data-sfc-cp=\"\" jsaction=\"\" jscontroller=\"akSuzb#zJGFRe\" data-sfc-root=\"c\" jsuid=\"MA88r_e\" style=\"margin: 0px; text-decoration: underline dotted; border-bottom: 0px rgb(10, 10, 10);\"><a href=\"https://www.google.com/search?kgmid=%2Fm%2F03cs0v_\">春日部車站</a><!--TgQPHd|||[]--></u><!--TgQPHd|||[]--></span><!--TgQPHd|||[]--></span>（Kasukabe Station）是《蠟筆小新》故事中野原一家日常通勤、野原廣志搭電車上下班的重要車站"
         }
@@ -42,7 +42,7 @@ var APP_DATA = {
   "name": "Project Title",
   "settings": {
     "mouseViewMode": "drag",
-    "autorotateEnabled": false,
+    "autorotateEnabled": true,
     "fullscreenButton": true,
     "viewControlButtons": true
   }
